@@ -1,0 +1,204 @@
+{
+    "personal_info": {
+        "email": "john.doe@example.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "San Francisco, CA",
+        "website": "https://johndoe.dev",
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe"
+    },
+    "summary": "Senior Full Stack JavaScript Developer with 10 years of experience in building scalable web applications. Expert in React, Node.js, and cloud technologies. Proven track record of leading development teams and delivering high-quality software solutions.",
+    "education": [
+        {
+            "institution": "Stanford University",
+            "degree": "Master of Science",
+            "field_of_study": "Computer Science",
+            "start_date": "2010-09-01",
+            "end_date": "2012-06-01",
+            "gpa": 3.8,
+            "location": "Stanford, CA",
+            "description": "Specialized in Web Technologies and Distributed Systems"
+        },
+        {
+            "institution": "University of California, Berkeley",
+            "degree": "Bachelor of Science",
+            "field_of_study": "Computer Science",
+            "start_date": "2006-09-01",
+            "end_date": "2010-06-01",
+            "gpa": 3.9,
+            "location": "Berkeley, CA"
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "TechCorp Inc.",
+            "position": "Senior Full Stack Developer",
+            "start_date": "2018-03-01",
+            "end_date": null,
+            "location": "San Francisco, CA",
+            "description": "Leading a team of developers in building enterprise-level web applications",
+            "achievements": [
+                "Architected and implemented a microservices-based e-commerce platform serving 1M+ users",
+                "Reduced application load time by 60% through performance optimization",
+                "Mentored 5 junior developers, improving team productivity by 40%"
+            ],
+            "technologies": [
+                "React",
+                "Node.js",
+                "TypeScript",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "GraphQL",
+                "MongoDB"
+            ]
+        },
+        {
+            "company": "WebSolutions Ltd.",
+            "position": "Full Stack Developer",
+            "start_date": "2013-01-01",
+            "end_date": "2018-02-28",
+            "location": "San Francisco, CA",
+            "description": "Developed and maintained multiple web applications for enterprise clients",
+            "achievements": [
+                "Implemented real-time collaboration features using WebSocket",
+                "Developed a custom CMS system used by 50+ clients",
+                "Optimized database queries, reducing response time by 70%"
+            ],
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "Redis",
+                "Docker"
+            ]
+        },
+        {
+            "company": "StartUpX",
+            "position": "Junior Developer",
+            "start_date": "2012-07-01",
+            "end_date": "2012-12-31",
+            "location": "San Francisco, CA",
+            "description": "Worked on frontend development and API integration",
+            "achievements": [
+                "Built responsive user interfaces for mobile and web",
+                "Integrated third-party APIs and payment gateways"
+            ],
+            "technologies": [
+                "JavaScript",
+                "jQuery",
+                "HTML5",
+                "CSS3",
+                "PHP",
+                "MySQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-commerce Platform",
+            "description": "A scalable e-commerce platform with real-time inventory management and payment processing",
+            "start_date": "2020-01-01",
+            "end_date": "2021-06-01",
+            "technologies": [
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Redis",
+                "AWS"
+            ],
+            "url": "https://github.com/johndoe/ecommerce-platform",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "Task Management System",
+            "description": "A collaborative task management system with real-time updates and team collaboration features",
+            "start_date": "2019-03-01",
+            "end_date": "2019-12-01",
+            "technologies": [
+                "React",
+                "Node.js",
+                "WebSocket",
+                "MongoDB"
+            ],
+            "url": "https://github.com/johndoe/task-manager",
+            "role": "Full Stack Developer"
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript",
+            "level": "Expert",
+            "category": "Programming Languages"
+        },
+        {
+            "name": "TypeScript",
+            "level": "Expert",
+            "category": "Programming Languages"
+        },
+        {
+            "name": "React",
+            "level": "Expert",
+            "category": "Frontend"
+        },
+        {
+            "name": "Node.js",
+            "level": "Expert",
+            "category": "Backend"
+        },
+        {
+            "name": "AWS",
+            "level": "Advanced",
+            "category": "Cloud"
+        },
+        {
+            "name": "Docker",
+            "level": "Advanced",
+            "category": "DevOps"
+        },
+        {
+            "name": "MongoDB",
+            "level": "Advanced",
+            "category": "Database"
+        },
+        {
+            "name": "GraphQL",
+            "level": "Advanced",
+            "category": "API"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect",
+            "issuer": "Amazon Web Services",
+            "date_obtained": "2020-05-15",
+            "expiration_date": "2023-05-15",
+            "credential_id": "AWS-123456",
+            "url": "https://aws.amazon.com/certification"
+        },
+        {
+            "name": "Professional Scrum Master I",
+            "issuer": "Scrum.org",
+            "date_obtained": "2019-03-10",
+            "credential_id": "PSM-I-789012"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Native"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "Professional"
+        }
+    ],
+    "interests": [
+        "Open Source Contribution",
+        "Technical Writing",
+        "Mountain Biking",
+        "Photography"
+    ]
+} 

@@ -1,0 +1,6 @@
+pydantic==2.5.2
+python-dateutil==2.8.2
+typing-extensions==4.8.0
+black==23.11.0  # For code formatting
+pytest==7.4.3   # For testing
+python-dotenv==1.0.0  # For environment variables 
